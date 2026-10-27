@@ -1,0 +1,3 @@
+# ALL mód: csak a másodikban van torpedó
+GT4500,0,0,1,0
+TORPEDO,ALL
