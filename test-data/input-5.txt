@@ -1,0 +1,4 @@
+# ALL mód: mindkét tárból tüzel, ha van torpedó
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE

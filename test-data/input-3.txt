@@ -1,0 +1,3 @@
+# SINGLE mód: első tüzelésnél primary üres, secondary-ből tüzel
+GT4500,0,0,1,0
+TORPEDO,SINGLE
