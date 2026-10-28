@@ -1,0 +1,3 @@
+# SINGLE mód: primary hiba esetén nem próbálja a másikat
+GT4500,1,1,1,0
+TORPEDO,SINGLE

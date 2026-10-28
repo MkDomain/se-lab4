@@ -1,0 +1,4 @@
+# SINGLE mód: primary lőtt először, secondary üres, így újra primary-ből lő
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
